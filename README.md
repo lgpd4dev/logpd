@@ -1,0 +1,2 @@
+# logpd
+LGPD Log
