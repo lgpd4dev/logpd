@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/logpd-jvm.iml" filepath="$PROJECT_DIR$/logpd-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ops.iml" filepath="$PROJECT_DIR$/ops.iml" />
+    </modules>
+  </component>
+</project>
